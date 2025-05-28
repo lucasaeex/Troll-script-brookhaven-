@@ -3,7 +3,7 @@ local LocalPlayer = Players.LocalPlayer
 local UIS = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
 
--- GUI
+-- GUI --lucas
 local gui = Instance.new("ScreenGui", game.CoreGui)
 local frame = Instance.new("Frame", gui)
 frame.Size = UDim2.new(0, 160, 0, 180)
