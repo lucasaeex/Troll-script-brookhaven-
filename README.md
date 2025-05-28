@@ -24,7 +24,7 @@ local function criarBotao(texto, cor, y)
 	return btn
 end
 
--- Botões
+-- Botões pra funciona 
 local killBtn = criarBotao("KILL", Color3.fromRGB(200, 0, 0), 0)
 local flyBtn = criarBotao("FLY", Color3.fromRGB(0, 180, 0), 50)
 local disableBtn = criarBotao("DESABILITAR", Color3.fromRGB(180, 0, 0), 100)
